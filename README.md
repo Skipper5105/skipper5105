@@ -1,6 +1,6 @@
 💫 About Me:
 
-My Name is Skipper, and I'm writing Programms in Python and Batch for Fun. I'm in 8th Grade. I Live in Bavaria, Germany
+My Name is Skipper, and I'm writing Programms in Python and Batch for Fun. I'm in 9th Grade. I Live in Bavaria, Germany
 
 💻Tech Stack:
 
